@@ -1,0 +1,20 @@
+4.For Cocomo and function point problems practice all problems of PPT
+
+5.For SRS
+	Product perspective
+	Scope and objective
+	Functional requirements
+	Non functional requirements
+
+6.U should first draw on paper 
+	usecase,
+	activity, state,
+	dataflow diagram for the problem statement given.
+
+7.You should be able to design RMMM plan for any problem statement
+
+8.You should be able to calculate cyclomaxity complexity and write test cases
+
+9.U should be able to draw gantt chart in project planner.
+
+10.Reference table for cocomo and function point problems will be given.
